@@ -76,3 +76,13 @@ GitHub: [My GitHub Profile](https://github.com/deshmukhmrunali31-wq)
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
+
+
+## 📸 Project Screenshots
+
+### 1. Fraud Website Detector - Home Page
+![Home Page](./fraud%20website%20img1.png)
+
+### 2. Fraud Website Detector - Detection Page
+![Detection Page](./fraud%20website%20img%202.png)
+
